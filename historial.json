@@ -36898,5 +36898,545 @@
     "moda": "200.0",
     "promedio": "220.0",
     "fecha": "22/10/2025"
+  },
+  {
+    "producto": "Apio verde (mata)",
+    "unidad": "Mata",
+    "mayorista": "Mata",
+    "minimo": "1000.0",
+    "maximo": "1200.0",
+    "moda": "1000.0",
+    "promedio": "1080.0",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Ayote sazón",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "250.0",
+    "maximo": "300.0",
+    "moda": "300.0",
+    "promedio": "283.33",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Banano maduro criollo",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "30.0",
+    "maximo": "35.0",
+    "moda": "30.0",
+    "promedio": "31.88",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Banano maduro rechazo de exportación",
+    "unidad": "Caja",
+    "mayorista": "Caja",
+    "minimo": "2500.0",
+    "maximo": "3000.0",
+    "moda": "2700.0",
+    "promedio": "2733.33",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Banano verde rechazo de exportación",
+    "unidad": "Caja",
+    "mayorista": "Caja",
+    "minimo": "2500.0",
+    "maximo": "3000.0",
+    "moda": "2700.0",
+    "promedio": "2722.22",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Brócoli",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "600.0",
+    "maximo": "800.0",
+    "moda": "700.0",
+    "promedio": "705.56",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Camote",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "900.0",
+    "maximo": "1000.0",
+    "moda": "1000.0",
+    "promedio": "963.64",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Cebolla seca amarilla burra",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "400.0",
+    "maximo": "450.0",
+    "moda": "400.0",
+    "promedio": "409.09",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Cebolla seca amarilla suelta",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "350.0",
+    "maximo": "400.0",
+    "moda": "400.0",
+    "promedio": "379.33",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Cebolla seca amarilla trenza",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "350.0",
+    "maximo": "400.0",
+    "moda": "400.0",
+    "promedio": "377.5",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Cebolla seca morada",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "800.0",
+    "maximo": "1000.0",
+    "moda": "800.0",
+    "promedio": "870.0",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Chayote tierno criollo",
+    "unidad": "Java",
+    "mayorista": "Java",
+    "minimo": "15000.0",
+    "maximo": "16000.0",
+    "moda": "15000.0",
+    "promedio": "15333.33",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Chayote tierno quelite",
+    "unidad": "Java",
+    "mayorista": "Java",
+    "minimo": "10000.0",
+    "maximo": "13000.0",
+    "moda": "12000.0",
+    "promedio": "11416.67",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Chile dulce jumbo Caja",
+    "unidad": "plástica",
+    "mayorista": "plástica",
+    "minimo": "24000.0",
+    "maximo": "25000.0",
+    "moda": "24000.0",
+    "promedio": "24333.33",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Chile dulce primera Caja",
+    "unidad": "plástica",
+    "mayorista": "plástica",
+    "minimo": "22000.0",
+    "maximo": "23000.0",
+    "moda": "23000.0",
+    "promedio": "22666.67",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Chile dulce segunda Caja",
+    "unidad": "plástica",
+    "mayorista": "plástica",
+    "minimo": "20000.0",
+    "maximo": "22000.0",
+    "moda": "21000.0",
+    "promedio": "20888.89",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Chile dulce tercera Caja",
+    "unidad": "plástica",
+    "mayorista": "plástica",
+    "minimo": "12000.0",
+    "maximo": "13000.0",
+    "moda": "12000.0",
+    "promedio": "12142.86",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Coliflor",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "600.0",
+    "maximo": "800.0",
+    "moda": "700.0",
+    "promedio": "695.24",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Culantro castilla Rollo de 10",
+    "unidad": "rollitos",
+    "mayorista": "rollitos",
+    "minimo": "1200.0",
+    "maximo": "1500.0",
+    "moda": "1500.0",
+    "promedio": "1400.0",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Elote",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "120.0",
+    "maximo": "150.0",
+    "moda": "150.0",
+    "promedio": "138.0",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Jengibre sazón",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "1000.0",
+    "maximo": "1200.0",
+    "moda": "1000.0",
+    "promedio": "1092.31",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Lechuga Americana",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "200.0",
+    "maximo": "250.0",
+    "moda": "250.0",
+    "promedio": "235.0",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Limón mandarina",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "50.0",
+    "maximo": "60.0",
+    "moda": "60.0",
+    "promedio": "55.38",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Limón mesino",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "80.0",
+    "maximo": "100.0",
+    "moda": "100.0",
+    "promedio": "90.77",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Mamón chino injertado",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "800.0",
+    "maximo": "1000.0",
+    "moda": "900.0",
+    "promedio": "911.11",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Mandarina primera",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "150.0",
+    "maximo": "200.0",
+    "moda": "200.0",
+    "promedio": "181.82",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Mandarina segunda",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "120.0",
+    "maximo": "150.0",
+    "moda": "150.0",
+    "promedio": "143.33",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Manga grande Cavallini Caja plástica (17",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "12000.0",
+    "maximo": "16000.0",
+    "moda": "14000.0",
+    "promedio": "14083.33",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Manga grande Keitt Caja plástica (17",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "10000.0",
+    "maximo": "12000.0",
+    "moda": "11000.0",
+    "promedio": "11000.0",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Manga pequeña Mora Caja plástica (17",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "10000.0",
+    "maximo": "12000.0",
+    "moda": "10000.0",
+    "promedio": "10800.0",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Melón Cantaloupe",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "1000.0",
+    "maximo": "1200.0",
+    "moda": "1000.0",
+    "promedio": "1060.0",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Naranja dulce",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "120.0",
+    "maximo": "130.0",
+    "moda": "120.0",
+    "promedio": "122.0",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Ñampí",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "800.0",
+    "maximo": "900.0",
+    "moda": "800.0",
+    "promedio": "830.0",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Papa amarilla primera Malla (45",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "28000.0",
+    "maximo": "32000.0",
+    "moda": "30000.0",
+    "promedio": "29241.38",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Papa blanca primera Malla (45",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "32000.0",
+    "maximo": "38000.0",
+    "moda": "35000.0",
+    "promedio": "34074.07",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Papaya híbrida",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "400.0",
+    "maximo": "450.0",
+    "moda": "400.0",
+    "promedio": "420.0",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Pepino",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "350.0",
+    "maximo": "450.0",
+    "moda": "400.0",
+    "promedio": "407.69",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Piña - grande",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "1100.0",
+    "maximo": "1300.0",
+    "moda": "1200.0",
+    "promedio": "1200.0",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Piña - mediana",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "800.0",
+    "maximo": "1000.0",
+    "moda": "1000.0",
+    "promedio": "922.22",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Piña - pequeña",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "700.0",
+    "maximo": "800.0",
+    "moda": "800.0",
+    "promedio": "766.67",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Plátano maduro",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "230.0",
+    "maximo": "240.0",
+    "moda": "240.0",
+    "promedio": "236.25",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Plátano verde",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "230.0",
+    "maximo": "240.0",
+    "moda": "240.0",
+    "promedio": "236.67",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Remolacha",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "250.0",
+    "maximo": "350.0",
+    "moda": "300.0",
+    "promedio": "287.5",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Repollo morado",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "600.0",
+    "maximo": "800.0",
+    "moda": "700.0",
+    "promedio": "703.13",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Repollo verde",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "250.0",
+    "maximo": "350.0",
+    "moda": "300.0",
+    "promedio": "289.29",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Sandía de campo - grande",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "600.0",
+    "maximo": "650.0",
+    "moda": "600.0",
+    "promedio": "612.5",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Sandía de campo - mediana",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "450.0",
+    "maximo": "500.0",
+    "moda": "500.0",
+    "promedio": "487.5",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Tiquisque",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "700.0",
+    "maximo": "900.0",
+    "moda": "800.0",
+    "promedio": "800.0",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Tomate primera Caja plástica (18",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "16000.0",
+    "maximo": "17000.0",
+    "moda": "16000.0",
+    "promedio": "16454.55",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Tomate segunda Caja plástica (18",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "15000.0",
+    "maximo": "16000.0",
+    "moda": "15000.0",
+    "promedio": "15384.62",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Tomate tercera Caja plástica (18",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "14000.0",
+    "maximo": "15000.0",
+    "moda": "14000.0",
+    "promedio": "14454.55",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Vainica",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "1000.0",
+    "maximo": "1200.0",
+    "moda": "1000.0",
+    "promedio": "1035.29",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Yuca parafinada",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "700.0",
+    "maximo": "800.0",
+    "moda": "700.0",
+    "promedio": "733.33",
+    "fecha": "23/10/2025"
+  },
+  {
+    "producto": "Zanahoria primera Malla (45",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "8000.0",
+    "maximo": "10000.0",
+    "moda": "10000.0",
+    "promedio": "9027.03",
+    "fecha": "23/10/2025"
   }
 ]
