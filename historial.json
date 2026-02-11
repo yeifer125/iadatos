@@ -19418,5 +19418,765 @@
     "moda": "10000.0",
     "promedio": "11068.97",
     "fecha": "5/2/2026"
+  },
+  {
+    "producto": "Apio verde (mata)",
+    "unidad": "Mata",
+    "mayorista": "Mata",
+    "minimo": "1000.0",
+    "maximo": "1500.0",
+    "moda": "1300.0",
+    "promedio": "1205.26",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Ayote sazón",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "300.0",
+    "maximo": "400.0",
+    "moda": "350.0",
+    "promedio": "361.11",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Ayote sazón mantequilla",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "600.0",
+    "maximo": "800.0",
+    "moda": "700.0",
+    "promedio": "688.89",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Ayote tierno",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "400.0",
+    "maximo": "500.0",
+    "moda": "500.0",
+    "promedio": "483.33",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Banano maduro criollo",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "27.0",
+    "maximo": "30.0",
+    "moda": "30.0",
+    "promedio": "29.73",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Banano rechazo de exportación (verde y maduro)",
+    "unidad": "Caja",
+    "mayorista": "Caja",
+    "minimo": "3000.0",
+    "maximo": "3000.0",
+    "moda": "3000.0",
+    "promedio": "3000.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Brócoli",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "1200.0",
+    "maximo": "1600.0",
+    "moda": "1500.0",
+    "promedio": "1380.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Camote",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "700.0",
+    "maximo": "800.0",
+    "moda": "700.0",
+    "promedio": "728.57",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Camote Zanahoria",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "1500.0",
+    "maximo": "1700.0",
+    "moda": "1600.0",
+    "promedio": "1600.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Carambola",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "600.0",
+    "maximo": "800.0",
+    "moda": "700.0",
+    "promedio": "700.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Cas",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "1000.0",
+    "maximo": "1200.0",
+    "moda": "1000.0",
+    "promedio": "1062.5",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Cebolla seca amarilla burra",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "750.0",
+    "maximo": "800.0",
+    "moda": "800.0",
+    "promedio": "777.27",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Cebolla seca amarilla suelta",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "750.0",
+    "maximo": "800.0",
+    "moda": "750.0",
+    "promedio": "758.33",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Cebolla seca amarilla trenza",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "750.0",
+    "maximo": "800.0",
+    "moda": "750.0",
+    "promedio": "758.33",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Cebolla seca morada",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "1700.0",
+    "maximo": "2000.0",
+    "moda": "1800.0",
+    "promedio": "1775.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Cebollino",
+    "unidad": "Rollo",
+    "mayorista": "Rollo",
+    "minimo": "200.0",
+    "maximo": "250.0",
+    "moda": "250.0",
+    "promedio": "228.82",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Chayote tierno criollo",
+    "unidad": "Java",
+    "mayorista": "Java",
+    "minimo": "16000.0",
+    "maximo": "18000.0",
+    "moda": "18000.0",
+    "promedio": "17111.11",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Chayote tierno quelite",
+    "unidad": "Java",
+    "mayorista": "Java",
+    "minimo": "16000.0",
+    "maximo": "18000.0",
+    "moda": "17000.0",
+    "promedio": "17000.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Chile dulce jumbo Caja",
+    "unidad": "plástica",
+    "mayorista": "plástica",
+    "minimo": "32000.0",
+    "maximo": "33000.0",
+    "moda": "32000.0",
+    "promedio": "32250.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Chile dulce primera Caja",
+    "unidad": "plástica",
+    "mayorista": "plástica",
+    "minimo": "30000.0",
+    "maximo": "32000.0",
+    "moda": "32000.0",
+    "promedio": "31142.86",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Chile dulce segunda Caja",
+    "unidad": "plástica",
+    "mayorista": "plástica",
+    "minimo": "23000.0",
+    "maximo": "24000.0",
+    "moda": "23000.0",
+    "promedio": "23428.57",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Chile dulce tercera Caja",
+    "unidad": "plástica",
+    "mayorista": "plástica",
+    "minimo": "8000.0",
+    "maximo": "10000.0",
+    "moda": "9000.0",
+    "promedio": "9000.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Coco",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "500.0",
+    "maximo": "500.0",
+    "moda": "500.0",
+    "promedio": "500.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Coliflor",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "800.0",
+    "maximo": "1000.0",
+    "moda": "800.0",
+    "promedio": "883.33",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Culantro castilla Rollo de 10",
+    "unidad": "rollitos",
+    "mayorista": "rollitos",
+    "minimo": "700.0",
+    "maximo": "1000.0",
+    "moda": "800.0",
+    "promedio": "818.75",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Elote",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "150.0",
+    "maximo": "150.0",
+    "moda": "150.0",
+    "promedio": "150.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Espinaca",
+    "unidad": "Rollo",
+    "mayorista": "Rollo",
+    "minimo": "200.0",
+    "maximo": "300.0",
+    "moda": "300.0",
+    "promedio": "255.29",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Fresa (1 Kg) Bandeja (1",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "2000.0",
+    "maximo": "2300.0",
+    "moda": "2000.0",
+    "promedio": "2055.56",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Fresa (400 g) Bandeja (400",
+    "unidad": "g)",
+    "mayorista": "g)",
+    "minimo": "1000.0",
+    "maximo": "1300.0",
+    "moda": "1000.0",
+    "promedio": "1100.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Guanábana injertada",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "1700.0",
+    "maximo": "1800.0",
+    "moda": "1800.0",
+    "promedio": "1760.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Guayaba China/Taiwanesa",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "800.0",
+    "maximo": "1000.0",
+    "moda": "1000.0",
+    "promedio": "957.14",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Jengibre sazón",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "800.0",
+    "maximo": "1000.0",
+    "moda": "1000.0",
+    "promedio": "977.78",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Lechuga Americana",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "200.0",
+    "maximo": "250.0",
+    "moda": "200.0",
+    "promedio": "223.53",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Limón mandarina",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "80.0",
+    "maximo": "100.0",
+    "moda": "100.0",
+    "promedio": "92.86",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Limón mesino",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "120.0",
+    "maximo": "150.0",
+    "moda": "150.0",
+    "promedio": "142.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Mandarina primera",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "200.0",
+    "maximo": "200.0",
+    "moda": "200.0",
+    "promedio": "200.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Mandarina segunda",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "140.0",
+    "maximo": "160.0",
+    "moda": "150.0",
+    "promedio": "151.11",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Manga grande Cavallini Caja plástica (17",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "13000.0",
+    "maximo": "16000.0",
+    "moda": "14000.0",
+    "promedio": "14111.11",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Manga grande Keitt Caja plástica (17",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "8000.0",
+    "maximo": "10000.0",
+    "moda": "9000.0",
+    "promedio": "8888.89",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Manga grande Tommy Caja plástica (17",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "13000.0",
+    "maximo": "15000.0",
+    "moda": "14000.0",
+    "promedio": "14000.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Maracuyá",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "1000.0",
+    "maximo": "1300.0",
+    "moda": "1200.0",
+    "promedio": "1155.56",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Melón Cantaloupe",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "400.0",
+    "maximo": "600.0",
+    "moda": "500.0",
+    "promedio": "523.53",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Mora congelada",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "1600.0",
+    "maximo": "2000.0",
+    "moda": "1800.0",
+    "promedio": "1800.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Mora fresca",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "1600.0",
+    "maximo": "2000.0",
+    "moda": "1800.0",
+    "promedio": "1800.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Naranja dulce",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "100.0",
+    "maximo": "120.0",
+    "moda": "120.0",
+    "promedio": "112.31",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Naranjilla",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "1300.0",
+    "maximo": "1600.0",
+    "moda": "1500.0",
+    "promedio": "1477.78",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Ñampí",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "800.0",
+    "maximo": "1000.0",
+    "moda": "800.0",
+    "promedio": "857.14",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Papa amarilla primera Malla (45",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "30000.0",
+    "maximo": "35000.0",
+    "moda": "33000.0",
+    "promedio": "32333.33",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Papa blanca primera Malla (45",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "33000.0",
+    "maximo": "38000.0",
+    "moda": "35000.0",
+    "promedio": "34578.95",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Papa polilla Malla (45",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "7000.0",
+    "maximo": "10000.0",
+    "moda": "8000.0",
+    "promedio": "8083.33",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Papa roja Malla (45",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "25000.0",
+    "maximo": "30000.0",
+    "moda": "25000.0",
+    "promedio": "26250.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Papa semilla Malla (45",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "17000.0",
+    "maximo": "23000.0",
+    "moda": "20000.0",
+    "promedio": "19055.56",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Papa semillón Malla (45",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "17000.0",
+    "maximo": "23000.0",
+    "moda": "20000.0",
+    "promedio": "19263.16",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Papaya híbrida",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "300.0",
+    "maximo": "400.0",
+    "moda": "350.0",
+    "promedio": "343.33",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Pejibaye",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "1300.0",
+    "maximo": "1400.0",
+    "moda": "1300.0",
+    "promedio": "1333.33",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Pepino",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "800.0",
+    "maximo": "900.0",
+    "moda": "800.0",
+    "promedio": "822.22",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Piña - grande",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "1100.0",
+    "maximo": "1200.0",
+    "moda": "1200.0",
+    "promedio": "1175.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Piña - mediana",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "1000.0",
+    "maximo": "1000.0",
+    "moda": "1000.0",
+    "promedio": "1000.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Piña - pequeña",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "700.0",
+    "maximo": "800.0",
+    "moda": "800.0",
+    "promedio": "777.78",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Pipa pelada",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "280.0",
+    "maximo": "300.0",
+    "moda": "300.0",
+    "promedio": "295.56",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Plátano primera (verde y maduro)",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "220.0",
+    "maximo": "250.0",
+    "moda": "230.0",
+    "promedio": "232.5",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Plátano segunda (verde y maduro)",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "160.0",
+    "maximo": "200.0",
+    "moda": "180.0",
+    "promedio": "181.33",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Remolacha",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "250.0",
+    "maximo": "350.0",
+    "moda": "300.0",
+    "promedio": "287.5",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Repollo morado",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "600.0",
+    "maximo": "700.0",
+    "moda": "600.0",
+    "promedio": "636.36",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Repollo verde",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "200.0",
+    "maximo": "300.0",
+    "moda": "250.0",
+    "promedio": "239.29",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Sandía de campo - grande",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "300.0",
+    "maximo": "400.0",
+    "moda": "350.0",
+    "promedio": "360.71",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Sandía de campo - mediana",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "200.0",
+    "maximo": "250.0",
+    "moda": "250.0",
+    "promedio": "230.77",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Tamarindo",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "2000.0",
+    "maximo": "2000.0",
+    "moda": "2000.0",
+    "promedio": "2000.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Tiquisque",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "1500.0",
+    "maximo": "1600.0",
+    "moda": "1500.0",
+    "promedio": "1544.44",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Tomate primera Caja plástica (18",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "15000.0",
+    "maximo": "16000.0",
+    "moda": "15000.0",
+    "promedio": "15333.33",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Tomate segunda Caja plástica (18",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "13000.0",
+    "maximo": "14000.0",
+    "moda": "13000.0",
+    "promedio": "13352.94",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Tomate tercera Caja plástica (18",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "10000.0",
+    "maximo": "11000.0",
+    "moda": "10000.0",
+    "promedio": "10153.85",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Vainica",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "2000.0",
+    "maximo": "2200.0",
+    "moda": "2000.0",
+    "promedio": "2040.0",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Yuca parafinada",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "500.0",
+    "maximo": "600.0",
+    "moda": "500.0",
+    "promedio": "545.45",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Zanahoria primera Malla (45",
+    "unidad": "kg)",
+    "mayorista": "kg)",
+    "minimo": "10000.0",
+    "maximo": "12000.0",
+    "moda": "10000.0",
+    "promedio": "10782.61",
+    "fecha": "11/2/2026"
+  },
+  {
+    "producto": "Zuquini",
+    "unidad": "Unidad",
+    "mayorista": "Unidad",
+    "minimo": "400.0",
+    "maximo": "500.0",
+    "moda": "400.0",
+    "promedio": "445.0",
+    "fecha": "11/2/2026"
   }
 ]
