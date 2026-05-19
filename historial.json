@@ -16538,5 +16538,25 @@
     "moda": "250.0",
     "promedio": "243.33",
     "fecha": "18/5/2026"
+  },
+  {
+    "producto": "Sandía de campo - grande",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "450.0",
+    "maximo": "500.0",
+    "moda": "450.0",
+    "promedio": "471.43",
+    "fecha": "18/5/2026"
+  },
+  {
+    "producto": "Sandía de campo - mediana",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "300.0",
+    "maximo": "350.0",
+    "moda": "350.0",
+    "promedio": "328.57",
+    "fecha": "18/5/2026"
   }
 ]
