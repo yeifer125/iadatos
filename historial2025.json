@@ -16230,23 +16230,23 @@
     "fecha": "9/9/2025"
   },
   {
-    "producto": "Aguacate Hass de Costa Rica Kilo 1 500,00 1",
-    "unidad": "800,00",
-    "mayorista": "800,00",
-    "minimo": "1.0",
-    "maximo": "600.0",
-    "moda": "1.0",
-    "promedio": "63750.0",
+    "producto": "Aguacate Hass de Costa Rica",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "1600.0",
+    "maximo": "1800.0",
+    "moda": "1700.0",
+    "promedio": "1695.84",
     "fecha": "10/9/2025"
   },
   {
-    "producto": "Apio verde (mata) Mata 1 000,00 1",
-    "unidad": "300,00",
-    "mayorista": "300,00",
-    "minimo": "1.0",
-    "maximo": "0.0",
-    "moda": "1.0",
-    "promedio": "100.0",
+    "producto": "Apio verde (mata)",
+    "unidad": "Mata",
+    "mayorista": "Mata",
+    "minimo": "1000.0",
+    "maximo": "1300.0",
+    "moda": "1000.0",
+    "promedio": "1077.09",
     "fecha": "10/9/2025"
   },
   {
@@ -16256,17 +16256,17 @@
     "minimo": "250.0",
     "maximo": "350.0",
     "moda": "300.0",
-    "promedio": "30455.0",
+    "promedio": "311.56",
     "fecha": "10/9/2025"
   },
   {
-    "producto": "Ayote sazón mantequilla Kilo 800,00 1",
-    "unidad": "200,00",
-    "mayorista": "200,00",
-    "minimo": "1.0",
-    "maximo": "200.0",
-    "moda": "1.0",
-    "promedio": "5714.0",
+    "producto": "Ayote sazón mantequilla",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "900.0",
+    "maximo": "1200.0",
+    "moda": "1200.0",
+    "promedio": "1105.72",
     "fecha": "10/9/2025"
   },
   {
@@ -16274,9 +16274,9 @@
     "unidad": "Unidad",
     "mayorista": "Unidad",
     "minimo": "350.0",
-    "maximo": "400.0",
-    "moda": "400.0",
-    "promedio": "37778.0",
+    "maximo": "450.0",
+    "moda": "375.0",
+    "promedio": "394.44",
     "fecha": "10/9/2025"
   },
   {
@@ -16290,23 +16290,23 @@
     "fecha": "10/9/2025"
   },
   {
-    "producto": "Banano maduro rechazo de exportación Caja 2 700,00 3",
-    "unidad": "000,00",
-    "mayorista": "000,00",
-    "minimo": "0",
-    "maximo": "000.0",
-    "moda": "0",
-    "promedio": "0.0",
+    "producto": "Banano maduro rechazo de exportación",
+    "unidad": "Caja",
+    "mayorista": "Caja",
+    "minimo": "2600.0",
+    "maximo": "2900.0",
+    "moda": "2750.0",
+    "promedio": "2748.22",
     "fecha": "10/9/2025"
   },
   {
-    "producto": "Banano verde rechazo de exportación Caja 2 700,00 3",
-    "unidad": "0",
-    "mayorista": "0",
-    "minimo": "0",
-    "maximo": "0",
-    "moda": "0",
-    "promedio": "0",
+    "producto": "Banano verde rechazo de exportación",
+    "unidad": "Caja",
+    "mayorista": "Caja",
+    "minimo": "2600.0",
+    "maximo": "2900.0",
+    "moda": "2750.0",
+    "promedio": "2748.22",
     "fecha": "10/9/2025"
   },
   {
@@ -16330,13 +16330,13 @@
     "fecha": "10/9/2025"
   },
   {
-    "producto": "Camote Zanahoria Kilo 1 000,00 1",
-    "unidad": "1200,0",
-    "mayorista": "1200,0",
-    "minimo": "1200",
-    "maximo": "2000",
-    "moda": "1200",
-    "promedio": "1200",
+    "producto": "Camote Zanahoria",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "1000.0",
+    "maximo": "1200.0",
+    "moda": "1200.0",
+    "promedio": "1129.09",
     "fecha": "10/9/2025"
   },
   {
@@ -16390,13 +16390,13 @@
     "fecha": "10/9/2025"
   },
   {
-    "producto": "Cebolla seca morada Kilo ",
-    "unidad": "0",
-    "mayorista": "0",
-    "minimo": "0.0",
-    "maximo": "0",
-    "moda": "0",
-    "promedio": "0",
+    "producto": "Cebolla seca morada",
+    "unidad": "Kilo",
+    "mayorista": "Kilo",
+    "minimo": "900.0",
+    "maximo": "1000.0",
+    "moda": "1000.0",
+    "promedio": "965.62",
     "fecha": "10/9/2025"
   },
   {
@@ -16410,13 +16410,13 @@
     "fecha": "10/9/2025"
   },
   {
-    "producto": "Chayote tierno criollo Java ",
-    "unidad": "250,00",
-    "mayorista": "250,00",
-    "minimo": "250,00",
-    "maximo": "250,00",
-    "moda": "250,00",
-    "promedio": "250,00",
+    "producto": "Chayote tierno criollo",
+    "unidad": "Java",
+    "mayorista": "Java",
+    "minimo": "20000.0",
+    "maximo": "23500.0",
+    "moda": "22500.0",
+    "promedio": "22005.56",
     "fecha": "10/9/2025"
   },
   {
@@ -16430,23 +16430,23 @@
     "fecha": "10/9/2025"
   },
   {
-    "producto": "Chile dulce jumbo Caja plástica 20",
-    "unidad": "180",
-    "mayorista": "180",
-    "minimo": "180",
-    "maximo": "180",
-    "moda": "180",
-    "promedio": "500.0",
+    "producto": "Chile dulce jumbo Caja",
+    "unidad": "plástica",
+    "mayorista": "plástica",
+    "minimo": "20000.0",
+    "maximo": "21500.0",
+    "moda": "20500.0",
+    "promedio": "20649.35",
     "fecha": "10/9/2025"
   },
   {
-    "producto": "Chile dulce primera Caja plástica 18 9",
-    "unidad": "0",
-    "mayorista": "0",
-    "minimo": "0",
-    "maximo": "0",
-    "moda": "0",
-    "promedio": "0",
+    "producto": "Chile dulce primera Caja",
+    "unidad": "plástica",
+    "mayorista": "plástica",
+    "minimo": "18000.0",
+    "maximo": "19500.0",
+    "moda": "18000.0",
+    "promedio": "18664.28",
     "fecha": "10/9/2025"
   },
   {
